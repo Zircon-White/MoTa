@@ -1,0 +1,12 @@
+﻿  源.cpp
+C:\Users\95127\Desktop\面向对象\MoTa\MoTa\源.cpp(198,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\95127\Desktop\面向对象\MoTa\MoTa\源.cpp(219,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\95127\Desktop\面向对象\MoTa\MoTa\源.cpp(265,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\95127\Desktop\面向对象\MoTa\MoTa\源.cpp(303,19): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\95127\Desktop\面向对象\MoTa\MoTa\源.cpp(322,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  2 of 319 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  MoTa.vcxproj -> C:\Users\95127\Desktop\面向对象\MoTa\MoTa\x64\Release\MoTa.exe
